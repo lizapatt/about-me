@@ -1,0 +1,41 @@
+body {
+    margin: 10%;
+    background-color: #085e3a;
+    color: black;
+    font-weight: 100;
+
+}
+
+.main-header {
+    font-weight: 100;
+    font-size: 340%;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-thickness: 10%;
+    color: white;
+    margin: 5%;
+}
+
+h2 {
+    font-weight: 100;
+    font-size: 150%;
+    text-align: center;
+}
+
+p {
+    font-weight: 200;
+    font-size: 100%;
+}
+
+#placeholder-image {
+  display: block;
+  width: 90%;
+  justify-self: center;
+}
+
+article {
+    margin: 5%;
+    padding: 5%;
+    justify-self: center;
+    background-color: whitesmoke;
+}
